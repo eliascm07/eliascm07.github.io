@@ -1,8 +1,8 @@
-0# -----------------------------------------------------------------------------
+# -----------------------------------------------------------------------------
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: blank # the website title (if blank, full name will be used instead)
+title: Portafolio # the website title (if blank, full name will be used instead)
 first_name: José
 middle_name: Elias
 last_name: Cabeza Moralales
