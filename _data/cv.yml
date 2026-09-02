@@ -1,25 +1,25 @@
 cv:
-  name: Albert Einstein
-  label: Scientist
-  email: einstein@example.com
-  location: Princeton, NJ
+  name: Elias Cabeza
+  label: Mechatronics Engineer
+  email: eliascabezamorales@gmail.com
+  location: Lima, Peru
   image: ""
-  summary: A German-born theoretical physicist, widely ranked among the greatest and most influential scientists of all time
+  summary: An engineer focused in develop robotics useful for society.
 
   social_networks:
     - network: X
       username: AlbertEinstein
     - network: GitHub
-      username: example
+      username: eliascm07
     - network: LinkedIn
       username: example
 
   address:
-    street: 2712 Broadway St
-    city: San Francisco
-    region: California
-    postalCode: CA 94115
-    countryCode: US
+    street: 
+    city: Lima
+    region: Peru
+    postalCode: 
+    countryCode: PE
 
   sections:
     Education:
@@ -36,12 +36,12 @@ cv:
           - Description 1.
           - Description 2.
 
-      - institution: Eidgenössische Technische Hochschule
-        location: Zurich, Switzerland
-        area: Physics
-        studyType: Federal teaching diploma
-        start_date: 1896
-        end_date: 1900
+      - institution: University of Technology and Engineering
+        location: Barranco, Lima, Peru
+        area: Mechatronics Engineer
+        studyType: Bachelor of Science
+        start_date: 2024
+        end_date: 2019
         highlights:
           - Description 1.
           - Description 2.
@@ -96,7 +96,7 @@ cv:
           - "Men of the year 2014 by Time magazine"
 
     Awards:
-      - title: Nobel Prize in Physics
+      - title: Scholarship Pronabec Beca 18
         authors:
           - "Royal Swedish Academy of Sciences"
         date: 1921-11-01
@@ -143,7 +143,7 @@ cv:
         keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
 
     Languages:
-      - name: German
+      - name: Spanish
         summary: "Native speaker"
 
       - name: English
