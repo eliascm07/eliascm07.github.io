@@ -7,12 +7,10 @@ cv:
   summary: An engineer focused in develop robotics useful for society.
 
   social_networks:
-    - network: X
-      username: AlbertEinstein
     - network: GitHub
       username: eliascm07
     - network: LinkedIn
-      username: example
+      username: eliascabezamorales
 
   address:
     street: 
@@ -23,28 +21,25 @@ cv:
 
   sections:
     Education:
-      - institution: University of Zurich
-        location: Zurich, Switzerland
-        url: https://www.uzh.ch/
-        area: Physics
-        studyType: PhD
-        start_date: 1900
-        end_date: 1905
-        score: ""
-        courses: "Theory of Relativity"
-        highlights:
-          - Description 1.
-          - Description 2.
-
-      - institution: University of Technology and Engineering
+      - institution: University of Technology and Engineering (UTEC)
         location: Barranco, Lima, Peru
         area: Mechatronics Engineer
-        studyType: Bachelor of Science
+        studyType: B.Sc
         start_date: 2024
         end_date: 2019
         highlights:
-          - Description 1.
-          - Description 2.
+          - Robotics specialiation.
+          - Top ten.
+
+      - institution: Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
+        location: Monterrey, Mexivo
+        area: Mechatronics Engineer
+        studyType: Exchange Student
+        start_date: 2024-07
+        end_date: 2024-02
+        highlights:
+          - A semester studying and working in a university research lab.
+          
 
     Experience:
       - company: Institute for Advanced Study, Princeton University
