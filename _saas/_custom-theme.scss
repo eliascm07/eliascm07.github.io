@@ -4,8 +4,8 @@
 }
 
 html[data-theme='light'] {
-    --global-theme-color: #0076df;
-    --global-hover-color: #005bb0;
+    --global-theme-color: #0076df !important;
+    --global-hover-color: #005bb0 !important;
 }
 
 html[data-theme='dark'] {
