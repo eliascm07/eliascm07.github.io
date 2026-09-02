@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Mechatronics Engineer from <a href='https://utec.edu.pe/'>UTEC</a> specialized in Robotics. I have developed autonumous robotics systems in projects for local companies in Perú in high risk enviroments.
+Elias Cabeza is a Mechatronics Engineer specializing in robotics software, autonomous systems, and computer vision. His work centers on ROS2-based software architectures for autonomous mobile robots — spanning perception, localization, motion planning, and real-time AI deployment on embedded platforms such as NVIDIA Jetson.
 
-Nowdays, I am working as indepedent engineer, working on engineer projects for local clients. Besides, I am doing independent research in robotics in topics related to autonomous systems, reinforcement learning and bipedal locomotion.
+He has led the robotics software development of an autonomous mobile robot for weed cutting in electrical substations, designing hardware-software architectures, fail-safe control strategies, and autonomous navigation stacks (path planning, A*, GNSS-RTK localization) validated through field testing. His work also spans deep learning perception pipelines (YOLO, OpenCV, PyTorch) optimized for real-time inference on embedded hardware.
+
+He currently works independently as a software engineer for local clients, while conducting research in robotics focused on autonomous systems, reinforcement learning, bipedal robot locomotion, and physics-based control methods.
+
+Elias holds a B.Sc. in Mechatronics Engineering from <a href='https://utec.edu.pe/'>UTEC</a> (Lima, Peru), with an exchange semester at <a href='https://tec.mx/en'>Tecnológico de Monterrey</a>.
 
 
