@@ -1,0 +1,7 @@
+html[data-theme="light"] {
+  --global-theme-color: #0076df;  // color de acento para modo claro (puedes usar cualquier hex)
+}
+
+html[data-theme="dark"] {
+  --global-theme-color: #11d68b;  // color de acento para modo oscuro (distinto, como querías)
+}
