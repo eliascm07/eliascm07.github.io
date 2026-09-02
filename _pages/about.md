@@ -29,7 +29,7 @@ latest_posts:
 
 I am Mechatronics Engineer specializing in robotics software, autonomous systems, and computer vision. My work centers on ROS2-based software architectures for autonomous mobile robots — spanning perception, localization, motion planning, and real-time AI deployment on embedded platforms.
 
-I have led the robotics software development of an autonomous mobile robot for weed cutting in electrical substations, designing hardware-software architectures, fail-safe control strategies, and autonomous navigation stacks (path planning, A*, GNSS-RTK localization) validated through field testing. My work also spans deep learning perception pipelines optimized for real-time inference on embedded hardware.
+I have led the robotics development of an autonomous mobile robot for weed cutting in electrical substations, designing hardware-software architectures, fail-safe control strategies, and autonomous navigation stacks (path planning, A*, GNSS-RTK localization) validated through field testing. My work also spans deep learning perception pipelines optimized for real-time inference on embedded hardware.
 
 Currently, I work independently as a software engineer for local clients, while conducting research in robotics focused on autonomous systems, reinforcement learning, bipedal robot locomotion, and physics-based control methods.
 
