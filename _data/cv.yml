@@ -66,15 +66,16 @@ cv:
         end_date: 2025-08
         summary: Led the robotics development of a prototype autonomous mobile robot for weed cutting in electrical substations
         highlights:
-          - Autonomous robotics, perception, localization and planning.
-          - Mechatronics design and integration.
+          - Autonomous robotics, perception, localization and path planning.
+          - Mechatronics design and Systems integration (Mechanics, Electronics, Networks, Software).
+          - 2 prototypes for ASMoV Robot.
 
       - company: Instituto Tecnológico y de Estudios Superiores de Monterrey
         position: Research intern
         location: Monterrey, Mexico
         start_date: 2024-03
         end_date: 2024-07
-        summary: GIECC | Research group on energy and climate change
+        summary: GIECC / Research group on energy and climate change
 
 
  #   Volunteer:
@@ -139,12 +140,12 @@ cv:
       - name: Robotics
         level:
         icon: fa-solid fa-robot
-        keywords: "ROS1/ROS2, Autonomous robotics, Mechatronics design, Computer vision, Control Theory, Reinforcement Learning"
+        keywords: "Autonomous robotics, Mechatronics design, Computer vision, Control Theory, Reinforcement Learning"
 
       - name: Programming
         level:
         icon: fa-solid fa-code
-        keywords: "Modern C++, Python, Matlab, Linux"
+        keywords: "Modern C++, Python, Matlab, Linux, ROS1/ROS2"
 
       - name: Computer Vision
         level:
@@ -171,7 +172,7 @@ cv:
     Interests:
       - name: Robotics
         icon: fa-solid fa-tag
-        keywords: "Reinforcement Learning, Sim2Real, SLAM, Autonomous Systems"
+        keywords: "Reinforcement Learning, Sim2Real, SLAM, Autonomous Systems, Spatial Exploration"
 
     Certificates:
       - name: CS50's Introduction to Programming with Python
