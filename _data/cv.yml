@@ -23,8 +23,8 @@ cv:
     Education:
       - institution: Universidad de Ingeniería y Tecnología (UTEC)
         location: Barranco, Lima, Peru
-        area: Bachelor of Science
-        studyType: Mechatronics Engineer
+        area: Mechatronics Engineering
+        degree: Bachelor of Science
         start_date: 2019-08
         end_date: 2024-12
         highlights:
@@ -33,7 +33,7 @@ cv:
 
       - institution: Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
         location: Monterrey, Mexico
-        area: Mechatronics Engineer
+        area: Mechatronics Engineering
         degree: Exchange Student
         start_date: 2024-07
         end_date: 2024-02
@@ -45,7 +45,7 @@ cv:
         position: Independent Robotics Engineer
         location: Trujillo, Peru
         start_date: 2026-03
-        end_date: Today
+        end_date: 2026-09
         highlights:
           - Freelance software development
           - Robotics research in reinforcement learning and autonomous systems.
@@ -74,6 +74,7 @@ cv:
         location: Monterrey, Mexico
         start_date: 2024-03
         end_date: 2024-07
+        summary: GIECC | Research group on energy and climate change
 
 
  #   Volunteer:
@@ -93,8 +94,9 @@ cv:
         awarder: Pronabec (Peru's National Scholarship and Educational Loan Program)
         summary: Full scholarship awarded by Pronabec to pursue university studies.
 
-      - name: Admission to COAR La Libertad (High Performance School)
+      - name: Admission to COAR La Libertad
         date: 2016
+        awarder: MINEDU (Ministry of Education of Peru)
         summary: Selected through a national merit-based examination for admission to Peru's High Performance School network, reserved for top-performing students nationwide.
         highlights:
           - Completed the International Baccalaureate (IB) Diploma Programme.
@@ -136,8 +138,28 @@ cv:
     Skills:
       - name: Robotics
         level:
-        icon: fa-solid fa-hashtag
-        keywords: "Autonomous robotics, Mechatronics design, Computer vision, Control Theory, Reinforcement Learning"
+        icon: fa-solid fa-robot
+        keywords: "ROS1/ROS2, Autonomous robotics, Mechatronics design, Computer vision, Control Theory, Reinforcement Learning"
+
+      - name: Programming
+        level:
+        icon: fa-solid fa-code
+        keywords: "Modern C++, Python, Matlab, Linux"
+
+      - name: Computer Vision
+        level:
+        icon: fa-solid fa-camera
+        keywords: "OpenCV, Object Detection, Instance Segmentation"
+
+      - name: IA / ML
+        level:
+        icon: fa-solid fa-brain
+        keywords: "Pytorch, Deep Learning, Reinforcement Learning"
+
+      - name: CAD Design
+        level:
+        icon: fa-solid fa-computer
+        keywords: "SolidWorks, Inventor Autodesk, Altium Designer"
 
     Languages:
       - name: Spanish
@@ -147,25 +169,25 @@ cv:
         summary: "Fluent"
 
     Interests:
-      - name: Physics
+      - name: Robotics
         icon: fa-solid fa-tag
-        keywords: "Quantum Mechanics, Quantum Computing, Quantum Information, Quantum Cryptography, Quantum Communication, Quantum Teleportation"
+        keywords: "Reinforcement Learning, Sim2Real, SLAM"
 
     Certificates:
-      - name: Machine Learning
-        date: 2018-01-01
-        issuer: Stanford University
+      - name: CS50's Introduction to Programming with Python
+        date: 2026
+        issuer: Harvard University
         icon: fa-solid fa-location-dot
 
-      - name: Quantum Computing
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-tag
-
-      - name: Quantum Information
-        date: 2018-01-01
-        issuer: Stanford University
-        icon: fa-solid fa-envelope
+#      - name: Quantum Computing
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-tag
+#
+#      - name: Quantum Information
+#        date: 2018-01-01
+#        issuer: Stanford University
+#        icon: fa-solid fa-envelope
 
 #    Projects:
 #      - name: Quantum Computing
