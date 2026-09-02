@@ -27,7 +27,7 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am Mechatronics Engineer from <a href='https://utec.edu.pe/'>UTEC specialized in Robotics. I have developed autonumous robotics systems in projects for local companies in Perú in high risk enviroments.
+I am Mechatronics Engineer from <a href='https://utec.edu.pe/'>UTEC</a> specialized in Robotics. I have developed autonumous robotics systems in projects for local companies in Perú in high risk enviroments.
 
 Nowdays, I am working as indepedent engineer, working on engineer projects for local clients. Besides, I am doing independent research in robotics in topics related to autonomous systems, reinforcement learning and bipedal locomotion.
 
