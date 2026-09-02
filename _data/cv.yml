@@ -29,7 +29,7 @@ cv:
         end_date: 2024-12
         highlights:
           - Robotics specialiation.
-          - Top ten.
+          - Top 10% graduates.
 
       - institution: Instituto Tecnológico y de Estudios Superiores de Monterrey (ITESM)
         location: Monterrey, Mexico
@@ -88,13 +88,13 @@ cv:
  #         - "Awarded 'Climate Hero' award by Greenpeace for my efforts organizing the march."
  #         - "Men of the year 2014 by Time magazine"
 
-    Awards:
+    Awards & Scholarships:
       - title: Beca 18 Scholarship
         date: 2019
         awarder: Pronabec (Peru's National Scholarship and Educational Loan Program)
         summary: Full scholarship awarded by Pronabec to pursue university studies.
 
-      - name: Admission to COAR La Libertad
+      - title: Admission to COAR La Libertad
         date: 2016
         awarder: MINEDU (Ministry of Education of Peru)
         summary: Selected through a national merit-based examination for admission to Peru's High Performance School network, reserved for top-performing students nationwide.
@@ -171,7 +171,7 @@ cv:
     Interests:
       - name: Robotics
         icon: fa-solid fa-tag
-        keywords: "Reinforcement Learning, Sim2Real, SLAM"
+        keywords: "Reinforcement Learning, Sim2Real, SLAM, Autonomous Systems"
 
     Certificates:
       - name: CS50's Introduction to Programming with Python
