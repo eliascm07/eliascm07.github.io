@@ -1,9 +1,9 @@
 html[data-theme="light"] {
-  --global-theme-color: #0076df !important;
-  --global-hover-color: #005bb0 !important;
+    --global-theme-color: #0076df;
+    --global-hover-color: #005bb0;
 }
 
 html[data-theme="dark"] {
-  --global-theme-color: #11d68b !important;
-  --global-hover-color: #0da86c !important;
+    --global-theme-color: #11d68b !important;
+    --global-hover-color: #0da86c !important;
 }
