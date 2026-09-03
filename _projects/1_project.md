@@ -2,7 +2,7 @@
 layout: page
 title: ASMoV Robot
 description: Autonomous mobile robot for weed cutting in electrical substations
-img: assets/img/12.jpg
+img: assets/img/projects/1_asmov_robot/robot_in_electric_station_v2.JPG
 importance: 1
 category: work
 related_publications: false

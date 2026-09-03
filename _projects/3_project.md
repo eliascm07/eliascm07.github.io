@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Digital twin of the automated thermo-expansive valve assembly process for the Parker Hannifin
-description: A digital twin of an automated process
-img: assets/img/7.jpg
+title: DTA-VALVE
+description: Digital twin of the automated thermo-expansive valve assembly process for the Parker Hannifin
+img: assets/img/projects/3_parker/plant_process.png
 # redirect: https://www.wikipedia.org/
 importance: 2
 category: academic

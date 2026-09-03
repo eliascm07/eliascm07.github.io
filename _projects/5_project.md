@@ -1,8 +1,8 @@
 ---
 layout: page
 title: LAK Obedience
-description: A bipedal robot
-img: assets/img/1.jpg
+description: A bipedal robot inspired in Open Duck
+img: assets/img/projects/5_lak/robot.jpeg
 importance: 1
 category: fun
 ---

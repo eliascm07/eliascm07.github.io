@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Implementation of autonomy algorithms for a road marking maintenance robot
-description: Final Year Project @ UTEC
-img: assets/img/3.jpg
+title: Road marking maintenance robot
+description: Final Year Project @ UTEC - Implementation of autonomy algorithms for a road marking maintenance robot
+img: assets/img/projects/2_road_maintenance/robot_in_spark_tation.jpg.jpeg
 importance: 1
 category: academic
 # giscus_comments: true

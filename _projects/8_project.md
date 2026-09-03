@@ -1,8 +1,8 @@
 ---
 layout: page
-title: Formula Student Electric in Peru
-description: an other project with a background image and giscus comments
-img: assets/img/9.jpg
+title: OHM Formula Racing
+description: Formula Student Electric Team in Peru
+img: assets/img/projects/8_ohm/car_render.jpeg
 importance: 2
 category: fun
 giscus_comments: true

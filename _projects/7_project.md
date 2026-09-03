@@ -2,7 +2,7 @@
 layout: page
 title: Visual SLAM with RBG-D camera for navigation
 description: with background image
-img: assets/img/4.jpg
+img: assets/img/projects/7_slam/map_rgbd.png
 importance: 5
 category: academic
 related_publications: true

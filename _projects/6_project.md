@@ -1,8 +1,8 @@
 ---
 layout: page
 title: Impedance Control for Open Manipulator
-description: a project with no image
-img:
+description: Advanced Robotics Course Project. Implementation of impedance control for Open Manipulator
+img: assets/img/projects/6_impedance/control.gif
 importance: 4
 category: academic
 ---
