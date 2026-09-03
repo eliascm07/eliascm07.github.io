@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Autonomous Asparagus Harvesting Robot
+title: Asparagus Harvesting Robot
 description: Mechatronics Design Proyect. A robot for asparagus harvesting.
 img: assets/img/projects/4_asp_robot/robot.jpeg
 importance: 3

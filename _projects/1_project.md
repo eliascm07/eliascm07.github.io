@@ -10,16 +10,18 @@ related_publications: false
 
 ## Overview
  
-ASMOV is an autonomous ground robot developed at **Innovo** (Lima, Peru) to perform vegetation clearing and maintenance tasks inside electrical substations — a hazardous, safety-critical environment near live high-voltage equipment. The project was developed across two prototypes, progressing from mechanical/electrical validation to a fully autonomous coverage system.
+ASMoV is an autonomous ground robot developed at **Innovo** (Lima, Peru) to perform vegetation clearing and maintenance tasks inside electrical substations — a hazardous, safety-critical environment near live high-voltage equipment. The project was developed across two prototypes, progressing from mechanical/electrical validation to a fully autonomous coverage system.
  
 <div class="row justify-content-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-12 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/1_asmov_robot/asmov_principal_v2.JPG" title="ASMOV in electric substation" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
 <div class="caption">
     ASMoV in electric substation.
 </div>
+
+---
 
 ## Prototype I — Design Validation
  
@@ -30,7 +32,9 @@ The first prototype focused on validating the robot's core physical platform. **
 - Integration and validation of the primary sensor suite
 - Baseline testing of the robot's ability to operate in a substation-like environment
 
-## Prototype II — Autonomyasmov_Renderasmov
+---
+
+## Prototype II — Autonomy
  
 The second prototype shifted focus toward full autonomy. **I led the development of this phase**, which included:
 
@@ -44,7 +48,7 @@ The second prototype shifted focus toward full autonomy. **I led the development
 As part of the second prototype, we developed a mini version of our robot to validate the navigation stack. Here are some photos of the mini ASMoV.
 
 <div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
+    <div class="col-sm-4 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/1_asmov_robot/p2_asmov_mini.jpg" title="Mini ASMoV view1" class="img-fluid rounded z-depth-1" %}
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
@@ -73,6 +77,8 @@ The final robot was tested initially in an environment different from the final 
     ASMoV Robot. Working at wiring with <a href='https://pe.linkedin.com/in/esau-vladimir-arqueros-plasencia-062802188'>Esau Arqueros</a>. Robot in electric substation. Final robot
 </div>
 
+---
+
 ## Technical Stack
  
 **Robotics Middleware & Software**
@@ -80,19 +86,25 @@ The final robot was tested initially in an environment different from the final 
 - C++ / Python
 - CAN bus (low-level communication with onboard modules and actuators)
 - STM32 (Microcontrollers)
+
 **Electronics & Power Electronics**
 - Power distribution and actuation circuit design
 - Dedicated safety circuits for hazardous-environment operation
+
 **Perception & Computer Vision**
 - Instance segmentation
 - PyTorch / OpenCV
 - NVIDIA Jetson (embedded AI deployment)
+
 **Navigation & Localization**
 - GNSS-RTK for precise outdoor positioning
 - Stereo Camera / Point Cloud
 - Coverage path planning algorithms / Graphs
+
 **Safety & Reliability**
 - Redundant sensing and fail-safe design for operation near energized equipment
+
+---
 
 ## Role & Impact
  
@@ -100,4 +112,52 @@ As lead of the second prototype, I was responsible for taking the platform from 
  
 ---
  
-*Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.*
+ *Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.*
+
+
+    ---
+    *Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.*
+    ---
+
+## Technical Stack
+ 
+<div class="mb-2"><strong>Robotics Middleware &amp; Software</strong></div>
+<div class="mb-3">
+    <span class="badge rounded-pill bg-secondary">ROS2</span>
+    <span class="badge rounded-pill bg-secondary">C++</span>
+    <span class="badge rounded-pill bg-secondary">Python</span>
+    <span class="badge rounded-pill bg-secondary">CAN Bus</span>
+</div>
+<div class="mb-2"><strong>Electronics &amp; Power Electronics</strong></div>
+<div class="mb-3">
+    <span class="badge rounded-pill bg-secondary">Power Electronics</span>
+    <span class="badge rounded-pill bg-secondary">Circuit Design</span>
+    <span class="badge rounded-pill bg-secondary">Safety Circuits</span>
+</div>
+<div class="mb-2"><strong>Perception &amp; Computer Vision</strong></div>
+<div class="mb-3">
+    <span class="badge rounded-pill bg-secondary">Instance Segmentation</span>
+    <span class="badge rounded-pill bg-secondary">PyTorch</span>
+    <span class="badge rounded-pill bg-secondary">OpenCV</span>
+    <span class="badge rounded-pill bg-secondary">NVIDIA Jetson</span>
+</div>
+<div class="mb-2"><strong>Navigation &amp; Localization</strong></div>
+<div class="mb-3">
+    <span class="badge rounded-pill bg-secondary">GNSS-RTK</span>
+    <span class="badge rounded-pill bg-secondary">Coverage Path Planning</span>
+</div>
+<div class="mb-2"><strong>Safety &amp; Reliability</strong></div>
+<div class="mb-3">
+    <span class="badge rounded-pill bg-secondary">Redundant Sensing</span>
+    <span class="badge rounded-pill bg-secondary">Fail-Safe Design</span>
+</div>
+## Role & Impact
+ 
+As lead of the second prototype, I was responsible for taking the platform from a manually validated base into an autonomous system capable of planning and executing its own coverage task in a constrained, safety-critical environment. I also contributed to the electronics and safety-critical circuit design established in the first prototype.
+ 
+<div class="alert alert-secondary d-flex align-items-center mt-4" role="alert">
+    <i class="fa-solid fa-lock me-2"></i>
+    <div>
+        Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.
+    </div>
+</div>

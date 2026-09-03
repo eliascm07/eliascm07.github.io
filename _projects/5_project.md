@@ -5,6 +5,7 @@ description: A bipedal robot inspired in Open Duck
 img: assets/img/projects/5_lak/robot.jpeg
 importance: 1
 category: fun
+published: false
 ---
 
 Every project has a beautiful feature showcase page.

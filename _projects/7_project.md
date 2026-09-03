@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Visual SLAM with RBG-D camera for navigation
-description: with background image
+description: Project for autonomous robotics course at <a href='https://utec.edu.pe/carreras/ingenieria-mecatronica'>UTEC</a>
 img: assets/img/projects/7_slam/map_rgbd.png
 importance: 5
 category: academic
