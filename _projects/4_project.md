@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 4
-description: another without an image
+title: Autonomous Asparagus Harvesting Robot
+description: Mechatronics Design Proyect. A robot for asparagus harvesting.
 img:
 importance: 3
-category: fun
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

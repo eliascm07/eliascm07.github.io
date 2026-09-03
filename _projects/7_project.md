@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 7
+title: Visual SLAM with RBG-D camera for navigation
 description: with background image
 img: assets/img/4.jpg
-importance: 1
-category: work
+importance: 5
+category: academic
 related_publications: true
 ---
 

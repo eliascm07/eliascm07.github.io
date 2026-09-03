@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image and giscus comments
+title: Implementation of autonomy algorithms for a road marking maintenance robot
+description: Final Year Project @ UTEC
 img: assets/img/3.jpg
-importance: 2
-category: work
-giscus_comments: true
+importance: 1
+category: academic
+# giscus_comments: true
 ---
 
 Every project has a beautiful feature showcase page.

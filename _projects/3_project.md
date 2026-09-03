@@ -1,11 +1,11 @@
 ---
 layout: page
-title: project 3 with very long name
-description: a project that redirects to another website
+title: Digital twin of the automated thermo-expansive valve assembly process for the Parker Hannifin
+description: A digital twin of an automated process
 img: assets/img/7.jpg
-redirect: https://www.wikipedia.org/
-importance: 3
-category: work
+# redirect: https://www.wikipedia.org/
+importance: 2
+category: academic
 ---
 
 Every project has a beautiful feature showcase page.

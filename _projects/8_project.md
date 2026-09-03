@@ -1,10 +1,10 @@
 ---
 layout: page
-title: project 8
+title: Formula Student Electric in Peru
 description: an other project with a background image and giscus comments
 img: assets/img/9.jpg
 importance: 2
-category: work
+category: fun
 giscus_comments: true
 ---
 
