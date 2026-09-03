@@ -5,7 +5,8 @@ description: Project for autonomous robotics course at <a href='https://utec.edu
 img: assets/img/projects/7_slam/map_rgbd.png
 importance: 5
 category: academic
-related_publications: true
+# related_publications: true
+published: false
 ---
 
 Every project has a beautiful feature showcase page.

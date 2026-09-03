@@ -1,10 +1,11 @@
 ---
 layout: page
 title: Asparagus Harvesting Robot
-description: Mechatronics Design Proyect. A robot for asparagus harvesting.
+description: Mechatronics Design Project @ UTEC. A robot for asparagus harvesting.
 img: assets/img/projects/4_asp_robot/robot.jpeg
 importance: 3
 category: academic
+published: false
 ---
 
 Every project has a beautiful feature showcase page.

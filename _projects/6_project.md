@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Impedance Control for Open Manipulator
-description: Advanced Robotics Course Project at <a href='https://utec.edu.pe/'>UTEC</a>. Implementation of impedance control for Open Manipulator
+description: Advanced Robotics Course Project @ UTEC. Implementation of impedance control for Open Manipulator
 img: assets/img/projects/6_impedance/control.gif
 importance: 4
 category: academic

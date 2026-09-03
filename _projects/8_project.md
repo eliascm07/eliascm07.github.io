@@ -5,7 +5,8 @@ description: Formula Student Electric Team in Peru
 img: assets/img/projects/8_ohm/car_render.jpeg
 importance: 2
 category: fun
-giscus_comments: true
+# giscus_comments: true
+published: false
 ---
 
 Every project has a beautiful feature showcase page.

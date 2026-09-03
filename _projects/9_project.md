@@ -5,7 +5,7 @@ description: Control of omnidirectional robot for manipulation tasks
 img: assets/img/projects/9_fdr_robot/robot_.gif
 importance: 6
 category: academic
-giscus_comments: false
+# giscus_comments: false
 ---
 
 Every project has a beautiful feature showcase page.

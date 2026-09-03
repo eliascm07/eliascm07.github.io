@@ -1,8 +1,8 @@
 ---
 layout: page
 title: DTA-VALVE
-description: Digital twin of the automated thermo-expansive valve assembly process for the Parker Hannifin. Project developed at TEC de Monterrey.
-img: assets/img/projects/3_parker/plant_process_v2.png
+description: Digital twin of the automated thermo-expansive valve assembly process for the Parker Hannifin. Project developed @ TEC de Monterrey.
+img: assets/img/projects/3_parker/plant_process.jpg
 # redirect: https://www.wikipedia.org/
 importance: 2
 category: academic

@@ -21,7 +21,6 @@ ASMoV is an autonomous ground robot developed at **Innovo** (Lima, Peru) to perf
     ASMoV in electric substation.
 </div>
 
----
 
 ## Prototype I — Design Validation
  
@@ -31,8 +30,8 @@ The first prototype focused on validating the robot's core physical platform. **
 - Power electronics and safety circuit design for reliable operation near energized equipment
 - Integration and validation of the primary sensor suite
 - Baseline testing of the robot's ability to operate in a substation-like environment
+- Manual Teleoperation by Radio Frecuency
 
----
 
 ## Prototype II — Autonomy
  
@@ -74,90 +73,62 @@ The final robot was tested initially in an environment different from the final 
     </div>
 </div>
 <div class="caption">
-    ASMoV Robot. Working at wiring with <a href='https://pe.linkedin.com/in/esau-vladimir-arqueros-plasencia-062802188'>Esau Arqueros</a>. Robot in electric substation. Final robot
+    ASMoV Robot. Left, working at wiring with <a href='https://pe.linkedin.com/in/esau-vladimir-arqueros-plasencia-062802188'>Esau Arqueros</a>. Middle, robot in electric substation. Right, final robot
 </div>
 
----
 
 ## Technical Stack
  
 **Robotics Middleware & Software**
-- ROS2
-- C++ / Python
-- CAN bus (low-level communication with onboard modules and actuators)
-- STM32 (Microcontrollers)
-
-**Electronics & Power Electronics**
-- Power distribution and actuation circuit design
-- Dedicated safety circuits for hazardous-environment operation
-
-**Perception & Computer Vision**
-- Instance segmentation
-- PyTorch / OpenCV
-- NVIDIA Jetson (embedded AI deployment)
-
-**Navigation & Localization**
-- GNSS-RTK for precise outdoor positioning
-- Stereo Camera / Point Cloud
-- Coverage path planning algorithms / Graphs
-
-**Safety & Reliability**
-- Redundant sensing and fail-safe design for operation near energized equipment
-
----
-
-## Role & Impact
- 
-As lead of the second prototype, I was responsible for taking the platform from a manually validated base into an autonomous system capable of planning and executing its own coverage task in a constrained, safety-critical environment. I also contributed to the electronics and safety-critical circuit design established in the first prototype.
- 
----
- 
- *Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.*
-
-
-    ---
-    *Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.*
-    ---
-
-## Technical Stack
- 
-<div class="mb-2"><strong>Robotics Middleware &amp; Software</strong></div>
 <div class="mb-3">
     <span class="badge rounded-pill bg-secondary">ROS2</span>
     <span class="badge rounded-pill bg-secondary">C++</span>
     <span class="badge rounded-pill bg-secondary">Python</span>
     <span class="badge rounded-pill bg-secondary">CAN Bus</span>
+    <span class="badge rounded-pill bg-secondary">STM32</span>
 </div>
-<div class="mb-2"><strong>Electronics &amp; Power Electronics</strong></div>
+
+**Electronics & Power Electronics**
 <div class="mb-3">
     <span class="badge rounded-pill bg-secondary">Power Electronics</span>
     <span class="badge rounded-pill bg-secondary">Circuit Design</span>
     <span class="badge rounded-pill bg-secondary">Safety Circuits</span>
 </div>
-<div class="mb-2"><strong>Perception &amp; Computer Vision</strong></div>
+
+**Perception & Computer Vision**
 <div class="mb-3">
     <span class="badge rounded-pill bg-secondary">Instance Segmentation</span>
     <span class="badge rounded-pill bg-secondary">PyTorch</span>
     <span class="badge rounded-pill bg-secondary">OpenCV</span>
     <span class="badge rounded-pill bg-secondary">NVIDIA Jetson</span>
 </div>
-<div class="mb-2"><strong>Navigation &amp; Localization</strong></div>
+
+**Navigation & Localization**
 <div class="mb-3">
     <span class="badge rounded-pill bg-secondary">GNSS-RTK</span>
+    <span class="badge rounded-pill bg-secondary">Stereo Camera</span>
+    <span class="badge rounded-pill bg-secondary">Point Cloud</span>
     <span class="badge rounded-pill bg-secondary">Coverage Path Planning</span>
+    <span class="badge rounded-pill bg-secondary">Graphs algorithms</span>
 </div>
-<div class="mb-2"><strong>Safety &amp; Reliability</strong></div>
+
+**Safety & Reliability**
 <div class="mb-3">
     <span class="badge rounded-pill bg-secondary">Redundant Sensing</span>
     <span class="badge rounded-pill bg-secondary">Fail-Safe Design</span>
 </div>
+
+
+
 ## Role & Impact
  
 As lead of the second prototype, I was responsible for taking the platform from a manually validated base into an autonomous system capable of planning and executing its own coverage task in a constrained, safety-critical environment. I also contributed to the electronics and safety-critical circuit design established in the first prototype.
  
-<div class="alert alert-secondary d-flex align-items-center mt-4" role="alert">
-    <i class="fa-solid fa-lock me-2"></i>
+---
+
+ <div class="alert alert-secondary d-flex align-items-center mt-4" role="alert">
+    <i class="fa-solid fa-lock me-2" style="font-style: italic;"></i>
     <div>
-        Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly.
+         Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly
     </div>
 </div>
