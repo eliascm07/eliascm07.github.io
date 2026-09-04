@@ -48,11 +48,10 @@ The proposed line was validated in simulation before any physical implementation
  
 - **Process Simulate** — used to validate robot reachability, cycle sequencing, and station-level interactions
 - **Plant Simulation** — used to model line throughput and compare the proposed automated process against the current manual baseline
-<div class="row justify-content-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        <div class="ratio ratio-16x9">
-            <iframe src="https://www.youtube.com/embed/a8Jq7TYmHYY" title="Digital Twin — Automated Valve Pre-Assembly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-        </div>
+
+<div class="max-w-3xl mx-auto my-4">
+    <div class="aspect-video">
+        <iframe class="w-full h-full rounded-lg" src="https://www.youtube.com/embed/a8Jq7TYmHYY" title="Digital Twin — Automated Valve Pre-Assembly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
@@ -64,7 +63,7 @@ The proposed line was validated in simulation before any physical implementation
 The complete report (in Spanish), covering requirements analysis, layout evaluation, mechanical design, industrial component selection, process design, PLC logic, simulation, and comparison against the current manual process, is available below.
  
 <div class="d-flex justify-content-center mt-3 mb-3">
-    <a href="assets/pdf/projects/3_parker_report.pdf" class="btn btn-outline-secondary" target="_blank">
+    <a href="../../assets/pdf/projects/3_parker_report.pdf" class="btn btn-outline-secondary" target="_blank">
         <i class="fa-solid fa-file-pdf me-1"></i> Download Full Report (PDF, Spanish)
     </a>
 </div>
