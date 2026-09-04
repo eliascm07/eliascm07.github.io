@@ -33,6 +33,7 @@ The redesign runs two processes in parallel that converge onto a single conveyor
 - **Indexing table** — performs the press-fitting of the inlet, outlet, and external components (with their respective rings) onto the valve body, using horizontal cylinders and slides.
 - **Intelligent tray supply** — in parallel, positions the lower components and their rings into each available slot on the trays advancing toward the furnace.
 - **Delta robot integration** — a delta robot removes the assembled parts from the indexing table and executes two pick-and-place cycles: the first places the part over the fluxing zone, and the second places it onto the tray positions moving toward the furnace.
+
 ## My Contribution
  
 This was a team project with shared contributions across requirements analysis, layout definition, and CAD design. **I led the PLC ladder logic development**, translating the mechanical and process design into the control logic that sequenced the indexing table, cylinders, and robot handoffs.
