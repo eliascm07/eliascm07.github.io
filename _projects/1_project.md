@@ -78,47 +78,45 @@ The final robot was tested initially in an environment different from the final 
 
 
 ## Technical Stack
- 
-**Robotics Middleware & Software**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">ROS2</span>
-    <span class="badge rounded-pill bg-secondary">C++</span>
-    <span class="badge rounded-pill bg-secondary">Python</span>
-    <span class="badge rounded-pill bg-secondary">CAN Bus</span>
-    <span class="badge rounded-pill bg-secondary">STM32</span>
+
+<p class="font-semibold mb-2">Robotics Middleware & Software</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">ROS2</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">C++</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Python</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">CAN Bus</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">STM32</span>
 </div>
 
-**Electronics & Power Electronics**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">Power Electronics</span>
-    <span class="badge rounded-pill bg-secondary">Circuit Design</span>
-    <span class="badge rounded-pill bg-secondary">Safety Circuits</span>
+<p class="font-semibold mb-2">Electronics & Power Electronics</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Power Electronics</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Circuit Design</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Safety Circuits</span>
 </div>
 
-**Perception & Computer Vision**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">Instance Segmentation</span>
-    <span class="badge rounded-pill bg-secondary">PyTorch</span>
-    <span class="badge rounded-pill bg-secondary">OpenCV</span>
-    <span class="badge rounded-pill bg-secondary">NVIDIA Jetson</span>
+<p class="font-semibold mb-2">Perception & Computer Vision</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Instance Segmentation</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">PyTorch</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">OpenCV</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">NVIDIA Jetson</span>
 </div>
 
-**Navigation & Localization**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">GNSS-RTK</span>
-    <span class="badge rounded-pill bg-secondary">Stereo Camera</span>
-    <span class="badge rounded-pill bg-secondary">Point Cloud</span>
-    <span class="badge rounded-pill bg-secondary">Coverage Path Planning</span>
-    <span class="badge rounded-pill bg-secondary">Graphs algorithms</span>
+<p class="font-semibold mb-2">Navigation & Localization</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">GNSS-RTK</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Stereo Camera</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Point Cloud</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Coverage Path Planning</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Graphs</span>
 </div>
 
-**Safety & Reliability**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">Redundant Sensing</span>
-    <span class="badge rounded-pill bg-secondary">Fail-Safe Design</span>
+<p class="font-semibold mb-2">Safety & Reliability</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Redundant Sensing</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Fail-Safe Design</span>
 </div>
-
-
 
 ## Role & Impact
  
@@ -127,8 +125,8 @@ As lead of the second prototype, I was responsible for taking the platform from 
 ---
 
  <div class="alert alert-secondary d-flex align-items-center mt-4" role="alert">
-    <i class="fa-solid fa-lock me-2" style="font-style: italic;"></i>
-    <div>
+    <i class="fa-solid fa-lock me-2"></i>
+    <div style="font-style: italic;">
          Due to a confidentiality agreement with Innovo, technical designs, schematics, and source code from this project cannot be shared publicly
     </div>
 </div>

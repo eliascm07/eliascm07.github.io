@@ -71,22 +71,22 @@ The complete report (in Spanish), covering requirements analysis, layout evaluat
 
 ## Technical Stack
  
-**Mechanical Design**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">CAD Design</span>
-    <span class="badge rounded-pill bg-secondary">Industrial Component Selection</span>
-    <span class="badge rounded-pill bg-secondary">Solidworks</span>
+<p class="font-semibold mb-2">Mechanical Design</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">CAD Design</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Industrial Component Selection</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Solidworks</span>
 </div>
 
-**Automation & Control**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">PLC Programming</span>
-    <span class="badge rounded-pill bg-secondary">Ladder Logic</span>
-    <span class="badge rounded-pill bg-secondary">Unifiliar Diagram</span>
+<p class="font-semibold mb-2">Automation & Control</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">PLC Programming</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Ladder Logic</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Unifiliar Diagram</span>
 </div>
 
-**Process Engineering**
-<div class="mb-3">
-    <span class="badge rounded-pill bg-secondary">Layout Design</span>
-    <span class="badge rounded-pill bg-secondary">Requirements Analysis</span>
+<p class="font-semibold mb-2">Process Engineering</p>
+<div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Layout Design</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Requirements Analysis</span>
 </div>
