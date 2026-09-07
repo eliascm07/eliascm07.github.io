@@ -111,6 +111,7 @@ The points of interest from Stage 2 are clustered using DBSCAN to isolate the li
 
 <p class="font-semibold mb-2">Computer Vision</p>
 <div class="flex flex-wrap gap-2 mb-4">
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Python</span>
     <span class="border border-divider text-text text-xs rounded-full px-3 py-1">YOLO11</span>
     <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Instance Segmentation</span>
 </div>
@@ -125,7 +126,7 @@ The points of interest from Stage 2 are clustered using DBSCAN to isolate the li
 <p class="font-semibold mb-2">Hardware</p>
 <div class="flex flex-wrap gap-2 mb-4">
     <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Differential Drive Platform</span>
-    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Electric Water Dispenser</span>
+    <span class="border border-divider text-text text-xs rounded-full px-3 py-1">Solidworks</span>
 </div>
 
 ## Team & Contribution
