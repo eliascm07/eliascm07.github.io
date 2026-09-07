@@ -50,14 +50,15 @@ The proposed line was validated in simulation before any physical implementation
 - **Process Simulate** — used to validate robot reachability, cycle sequencing, and station-level interactions
 - **Plant Simulation** — used to model line throughput and compare the proposed automated process against the current manual baseline
 
-<div class="max-w-3xl mx-auto my-4">
-    <div class="aspect-video">
-        <iframe class="w-full h-full rounded-lg" src="https://www.youtube.com/embed/a8Jq7TYmHYY" title="Digital Twin — Automated Valve Pre-Assembly" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+<div class="row justify-content-center">
+    <div class="col-sm-12 mt-3 mt-md-0">
+        <iframe src="ttps://www.youtube.com/embed/a8Jq7TYmHYY" style="width: 100%; aspect-ratio: 16/9; border: 0;" allowfullscreen></iframe>
     </div>
 </div>
 <div class="caption">
     Simulated process walkthrough of the automated pre-assembly line.
 </div>
+
 
 ## Full Report
  

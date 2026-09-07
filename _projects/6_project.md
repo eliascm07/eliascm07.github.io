@@ -12,7 +12,7 @@ category: academic
 Compliance — a robot's ability to react to external forces rather than rigidly rejecting them — is central to safe and effective physical human-robot interaction. It underlies collaborative manufacturing, delicate manipulation in healthcare, and robots operating in unstructured, contact-rich environments. This project, developed for the Advanced Robotics course at UTEC, implements **model-based impedance control** on the **Open Manipulator-X**, a 4-DoF manipulator built on Dynamixel servomotors.
  
 <div class="row justify-content-center">
-    <div class="col-sm-12 mt-3 mt-md-0">
+    <div class="col-sm-8 mt-3 mt-md-0">
         {% include figure.liquid path="assets/img/projects/6_impedance/control.gif" title="Impedance control on the Open Manipulator-X" class="img-fluid rounded z-depth-1" %}
     </div>
 </div>
@@ -33,6 +33,7 @@ Position or torque control alone perform poorly the moment a manipulator makes c
 - Implement the control law as a ROS controller on the Open Manipulator-X
 - Characterize the closed-loop response of the end effector under different virtual stiffness and damping settings
 - Validate compliant behavior experimentally against external disturbances applied to the end effector
+
 ## Methodology
  
 ### Impedance Control
@@ -130,11 +131,13 @@ The controller was tested under different virtual stiffness ($$K_d$$) and dampin
 <div class="caption">
     Compliant response of the Open Manipulator-X end effector under different impedance gains.
 </div>
+
 ## Scope & Constraints
  
 - The written article frames impedance control's relevance partly through legged locomotion, where compliant contact with the ground is essential — but the implementation and all experimental validation in this project were carried out on the Open Manipulator-X arm, not on a legged platform
 - No force/torque sensor is available on the hardware, so all compliant behavior comes from the model-based reformulation above rather than direct force feedback
 - Gains ($$M_d$$, $$B_d$$, $$K_d$$) were tuned experimentally rather than derived from a formal stability or performance criterion
+
 ## Technical Stack
  
 <div class="flex flex-wrap gap-2 mb-4">
